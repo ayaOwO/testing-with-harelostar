@@ -1,1 +1,1 @@
-print("gitting with Harelostar")
+print("gitting with harelostar")
